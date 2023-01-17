@@ -18,3 +18,4 @@ $cargo build --release
 ```
 ## 如果不想自己动手，可以使用我构建好的版本，直接到Release页面中下载就可以
 
+点击下载 [Release](https://github.com/sndnvaps/shortcut/releases/tag/v0.1.0)
